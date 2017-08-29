@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VhdxCreate": {
+      "commandName": "Project",
+      "commandLineArgs": "test.vhdx -bs 128MB -sz 2GB"
+    }
+  }
+}
